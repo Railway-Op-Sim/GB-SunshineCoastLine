@@ -1,0 +1,13 @@
+rly_file = "SunshineCoastLine.rly"
+ttb_files = []
+img_files = [ "SunshineCoastLine.bmp",]
+doc_files = [ "README.md",]
+release_date = "2022-02-27"
+version = "1.0.0"
+country_code = "GB"
+factual = true
+description = ""
+display_name = "Sunshinecoastline"
+name = "Sunshinecoastline"
+author = "Kristian Zarębski"
+contributors = []
