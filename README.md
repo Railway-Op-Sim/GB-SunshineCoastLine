@@ -11,7 +11,7 @@ Representation of the route between Colchester and Clacton-on-Sea/Walton-on-the-
 | Signalling      | :heavy_check_mark: |
 | Naming | :heavy_check_mark:  |
 | Speed Limits | :x: |
-| Distances | :x: |
+| Distances | :heavy_check_mark: |
 | Timetable | :x: |
 | Documentation | :x: |
 
