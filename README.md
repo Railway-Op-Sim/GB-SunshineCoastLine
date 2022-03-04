@@ -12,11 +12,12 @@ Representation of the route between Colchester and Clacton-on-Sea/Walton-on-the-
 | Naming | :heavy_check_mark:  |
 | Speed Limits | :heavy_check_mark: |
 | Distances | :heavy_check_mark: |
-| Timetable | :x: |
-| Documentation | :x: |
+| Timetable | :heavy_check_mark: |
+| Documentation | :heavy_check_mark: |
 
 
 ## Data Sources
+- [OpenTrainTimes](https://www.opentraintimes.com/)
 - [National Electronic Sectional Appendix (Anglia December 2021)](https://www.networkrail.co.uk/industry-and-commercial/information-for-operators/national-electronic-sectional-appendix/)
 - [Map Meurisse](https://map.meurisse.org/)
 - [Walton on Naze to Colchester Town back cab view from train for Greater anglia Day] by Back Cab View on Youtube
