@@ -10,5 +10,6 @@ description = "A branch line off of the Great Eastern Main Line in Essex, UK, co
 display_name = "Sunshine Coast Line, Essex, UK"
 name = "Sunshine Coast Line, UK"
 author = "Krizar"
+year = 2022
 contributors = []
 ssn_files = [ "SunshineCoastLine_March2022_Morning.ssn",]
